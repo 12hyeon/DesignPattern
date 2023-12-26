@@ -35,7 +35,8 @@
   <br>
 
 ## 3. 설계 클래스 다이어그램
-![image](https://github.com/12hyeon/DesignPattern/assets/67951802/8ee8ac91-b294-4fdd-a8c2-45c682c03e63)
+![image](https://github.com/12hyeon/DesignPattern/assets/67951802/94a9b6b6-ec8f-45af-b32e-fc065e8ffac5)
+
 <br>
 
 ## 4. 실제 사용 예
@@ -44,5 +45,6 @@
 <br>
 => 각 date와 title이 본문 1장이 추가될 때마다 10, 30원씩 추가됨에 따라 예시 1번에 비해서 80이 많은 390원의 결과를 가져오게 됩니다.
 
-![image](https://github.com/12hyeon/DesignPattern/assets/67951802/70c73707-0bac-46b4-a449-ec862497c1fc)
+![image](https://github.com/12hyeon/DesignPattern/assets/67951802/5ce642d3-08f5-4019-b413-f8a644ea8442)
+
 
